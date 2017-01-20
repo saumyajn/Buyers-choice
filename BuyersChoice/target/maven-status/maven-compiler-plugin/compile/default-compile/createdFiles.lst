@@ -1,0 +1,14 @@
+com\buyerschoice\controller\PackageController.class
+com\buyerschoice\controller\DestinationController.class
+com\buyerschoice\controller\LoginController.class
+com\buyerschoice\controller\UserController.class
+com\buyerschoice\model\User.class
+com\buyerschoice\model\Supplier.class
+com\buyerschoice\controller\SupplierController.class
+com\buyerschoice\dao\UserDao.class
+com\buyerschoice\dao\PackageDao.class
+com\buyerschoice\dao\SupplierDao.class
+com\buyerschoice\model\Package.class
+com\buyerschoice\model\Destination.class
+com\buyerschoice\model\UserCredentials.class
+com\buyerschoice\dao\DestinationDao.class
